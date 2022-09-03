@@ -14,7 +14,7 @@ The three of us got together to try out the rest of the fixed base boards, and t
 
 Alan’s working on getting photos from this night, but did manage to post the following video:
 
-<iframe width="600" height="363" src="http://www.youtube.com/embed/pAP4J0mwOJ8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAP4J0mwOJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Still to be done:
 

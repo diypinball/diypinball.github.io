@@ -6,7 +6,7 @@ comments: false
 ---
 This week’s pinball work session was highly distracted, thanks to Randy [bringing along his new binary game project](https://github.com/SurrealityLabs/binarygame/).
 
-
+![Alex and Mike NCISing it on one keyboard](../img/alex-mike-keyboard.gif)
 
 Here’s a rundown of the progress that was made:
 
