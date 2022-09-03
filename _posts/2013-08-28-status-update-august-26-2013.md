@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Status Update: August 26, 2013
+title: Status Update - August 26, 2013
 tags: [Updates]
 Comments: false
 ---
