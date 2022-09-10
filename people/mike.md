@@ -1,0 +1,9 @@
+Mike (the unshaven guy on the right) holds a degree in Electrical Engineering and Management from McMaster University. His interests include electronics, mechatronic systems (especially robotics), control systems, building high performance race cars, and strangely enough managing projects. He may somewhat over commit his time on the amount of projects he is doing at once but that means that he is never bored.
+
+Mike has always enjoyed taking things apart, fixing them, and usually getting them back together. In his spare time, Mike fences, works on electronics projects, builds random things in the garage, plays tabletop board games, gives advice to some of the teams he was formerly on in University and of course playing pinball! His personal website can be found at usefulrobot.com (unfortunately he is not good at documenting his work, but he is attempting to address this).
+
+Mike’s adventures have led him in many directions, he has in the past build a formula sae and formula hybrid race car, a giant oven for composite work for that team, a FPGA powered vision based autonomous 1/10th scale racecar, valentines gifts made with tons of LEDs, automatic opening and closing blinds, creating some arcade style fencing games, and tons of other random projects, his somewhat updated portfolio can be found here(http://www.usefulrobot.com/main/portfolio/).
+
+Mike currently lives in Mississauga Ontario, and works in Kitchener at a Field Robotics company. He has and still enjoys a faced pace environment, hard work, and solving complex problems.
+
+Mike, who is feeling strange referring to himself in the third person like a jerk, cannot usually be found, but he can be reached at mike@usefulrobot.com

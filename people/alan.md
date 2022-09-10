@@ -1,0 +1,9 @@
+Alan holds a Master’s degree in Mechanical Engineering and a Bachelor’s degree in Mechatronics Engineering both from McMaster University in Hamilton, Ontario. Alan’s interest in computers and robotics in can be traced back to hours spent with a Lego Mindstorms kit at age 14. Using the same kits owned by his high school, Alan organized a Lego Robot Wars assignment for his entire grade 11 computer engineering class – for credit!
+
+Although he had dabbled with etching PCBs in high school, it was at the IEEE student branch’s ‘Learn Eagle’ night class led by Mike Irvine that Alan learned how to design a circuit board on the computer. It was not until a few years later during their graduate degrees that the two crossed paths working in the same lab space and started making projects together.
+
+Around that same time, while reading online how to tackle surface mount soldering Alan learned about Pick and Place machines – automated equipment for placing components onto circuit boards. Alan’s interests and training in electronics and circuit board design, automation and CNC machinery, and computer vision converged on this incredibly expensive machinery, and he knew he had to build one of his own. Once upon a time a YouTube video of his barely proof-of-concept prototype made it onto [Hackaday.com](http://hackaday.com/2011/02/21/diy-pick-and-place-seems-easy-to-build/). The project was shelved during the final stages of his master’s degree, but has recently been reopened.
+
+Alan lives in Hamilton, Ontario, with his fiancée and two cats where he works to develop content for Mechanical Engineering courses. When not at work, Alan can be found at the BBQ, in the garden, dabbling in DSLR photography, or playing tf2/minecraft, but he’s most likely in his workshop working on the pick and place.
+
+Alan (@asawula) owns and operates Inventor’s Playground – http://ipgnd.com
