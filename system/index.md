@@ -18,7 +18,7 @@ This has a few benefits:
 * To repair a failed module, we can swap out just the module that failed – not the whole system. We only need to fix or replace the actual broken part.
 * The boards can be upgraded with new technology without changing the whole system. As parts become obsolete, we can redesign the individual modules using newer components. If the interface is kept the same as older versions, then newer modules can be swapped into older machines, without changing their software
 
-We use a CAN bus network to link our modules together, along with a Linux-based computer – usually a Raspberry Pi. On the computer, we run the game logic through the Python-based Mission Pinball Framework.
+We use a [CAN bus](https://en.wikipedia.org/wiki/CAN_bus) network to link our modules together, along with a Linux-based computer – usually a Raspberry Pi. On the computer, we run the game logic through the Python-based [Mission Pinball Framework](https://missionpinball.org/).
 
 Here are some details on some of the components of our system
 
